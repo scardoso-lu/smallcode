@@ -13,7 +13,7 @@
 # Requires: Node.js >=18, npm, git
 
 param(
-  [string]$Branch    = "claude/agentic-tdd-loop-9M9OP",
+  [string]$Branch    = "master",
   [string]$Repo      = "scardoso-lu/smallcode",
   [string]$CloneDir  = "",
   [switch]$SkipClone
